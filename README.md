@@ -73,9 +73,6 @@ sa
 ra
 ra
 pb
-```
-After entering the instructions, press Ctrl+D
-```bash
 KO
 ```
 
