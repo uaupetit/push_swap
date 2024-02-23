@@ -47,6 +47,7 @@ pa
 ```
 To compile the `checker` program, run:
 expected output:
+
 After entering the instructions, press Ctrl+D
 ```bash
 make
@@ -62,6 +63,7 @@ pa
 OK
 ```
 wrong output:
+
 After entering the instructions, press Ctrl+D
 ```bash
 make
