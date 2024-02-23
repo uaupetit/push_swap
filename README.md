@@ -47,7 +47,7 @@ pa
 ```
 To compile the `checker` program, run:
 ```bash
-make
+make bonus
 $ ./checker 3 1 2 6 0
 rra
 pb
@@ -67,7 +67,7 @@ OK
 
 wrong output:
 ```bash
-make
+make bonus
 $ ./checker 3 1 2 6 0
 sa
 ra
