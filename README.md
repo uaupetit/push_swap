@@ -46,6 +46,7 @@ pa
 pa
 ```
 To compile the `checker` program, run:
+
 expected output:
 
 After entering the instructions, press Ctrl+D
@@ -62,6 +63,7 @@ pa
 pa
 OK
 ```
+
 wrong output:
 
 After entering the instructions, press Ctrl+D
