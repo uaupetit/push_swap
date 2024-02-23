@@ -44,9 +44,10 @@ rra
 sa
 pa
 pa
-
+```
 To compile the `checker` program, run:
 expected output:
+```bash
 make
 $ ./checker 3 1 2 6 0
 rra
@@ -58,7 +59,9 @@ sa
 pa
 pa
 OK
+```
 wrong output:
+```bash
 make
 $ ./checker 3 1 2 6 0
 sa
@@ -66,5 +69,9 @@ ra
 ra
 pb
 KO
+```
+## Conclusion
 
+For a brief introduction to linked lists, you can check out this [link](https://www.geeksforgeeks.org/what-is-linked-list/).
 
+To learn more about the project and the algorithm used, you can refer to this [link](https://medium.com/@ayogun/push-swap-c1f5d2d41e97).
