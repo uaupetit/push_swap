@@ -47,6 +47,7 @@ pa
 ```
 To compile the `checker` program, run:
 expected output:
+After entering the instructions, press Ctrl+D
 ```bash
 make
 $ ./checker 3 1 2 6 0
@@ -61,6 +62,7 @@ pa
 OK
 ```
 wrong output:
+After entering the instructions, press Ctrl+D
 ```bash
 make
 $ ./checker 3 1 2 6 0
