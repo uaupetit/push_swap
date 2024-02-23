@@ -46,10 +46,6 @@ pa
 pa
 ```
 To compile the `checker` program, run:
-
-expected output:
-
-After entering the instructions, press Ctrl+D
 ```bash
 make
 $ ./checker 3 1 2 6 0
@@ -61,12 +57,15 @@ rra
 sa
 pa
 pa
+```
+After entering the instructions, press Ctrl+D
+
+expected output:
+```bash
 OK
 ```
 
 wrong output:
-
-After entering the instructions, press Ctrl+D
 ```bash
 make
 $ ./checker 3 1 2 6 0
@@ -74,8 +73,12 @@ sa
 ra
 ra
 pb
+```
+After entering the instructions, press Ctrl+D
+```bash
 KO
 ```
+
 ## Conclusion
 
 For a brief introduction to linked lists, you can check out this [link](https://www.geeksforgeeks.org/what-is-linked-list/).
